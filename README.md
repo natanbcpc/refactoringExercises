@@ -1,2 +1,11 @@
-# refactoringExercises
-Exercises for the Software Engineering Course
+# Smells Encontrados
+
+## Exercício 1
+
+## Exercício 2
+
+## Exercício 3
+
+## Exercício 4
+
+## Exercício 5
