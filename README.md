@@ -9,3 +9,4 @@
 **Exercício 4:**
 
 **Exercício 5:**
+Couplers - Inappropriate Intimacy,  a classe Basket estava utilizando basicamente as variáveis internas de Item.
