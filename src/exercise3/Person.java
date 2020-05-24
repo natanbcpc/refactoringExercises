@@ -8,7 +8,7 @@ public class Person {
 		department = arg;
 	}
 
-	public Person getDepartment() {
+	public Department getDepartment() {
 		return department;
 	}
 
