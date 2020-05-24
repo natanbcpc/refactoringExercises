@@ -6,6 +6,7 @@ public class App {
 
 		Person john = new Person();
 		// ...
-		Person manager = john.getManager();
+		Department dep = john.getDepartment();
+		Person manager = dep.getManager();
 	}
 }
