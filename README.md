@@ -1,6 +1,7 @@
 # Smells Encontrados
 
 **Exercício 1:**
+Change Preventers - Shotgun Surgery, caso mais tipos fossem criados em AccountType, a classe Account também teria que ser alterada.
 
 **Exercício 2:** Temporary Field
 
