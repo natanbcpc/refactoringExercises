@@ -7,7 +7,7 @@ Change Preventers - Shotgun Surgery, caso mais tipos fossem criados em AccountTy
 
 **Exercício 3:** Message Chains
 
-**Exercício 4:**
+**Exercício 4:** Incomplete Library Class
 
 **Exercício 5:**
 Couplers - Inappropriate Intimacy,  a classe Basket estava utilizando basicamente as variáveis internas de Item.
